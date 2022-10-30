@@ -4,3 +4,4 @@ cd sandbox
 mkdir User-data
 cd User-data
 type nul > hello.txt
+git pull
